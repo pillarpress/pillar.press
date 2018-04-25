@@ -36,6 +36,12 @@ a.btn{
 	background-color: #333;
 	font-weight: 800;
 	text-align: center;
+	opacity: 1.0;
+}
+
+a.btn:hover {
+	color: #FFF;
+	background-color: #222;
 }
 
 hr{
