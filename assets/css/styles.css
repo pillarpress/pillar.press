@@ -33,7 +33,7 @@ a.btn{
 	color: #fff;
 	border-radius: 4px;
 	text-transform: uppercase;
-	background-color: #333;
+	background-color: #222;
 	font-weight: 800;
 	text-align: center;
 	opacity: 1.0;
@@ -41,7 +41,7 @@ a.btn{
 
 a.btn:hover {
 	color: #FFF;
-	background-color: #222;
+	background-color: #333;
 }
 
 hr{
