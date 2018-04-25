@@ -114,7 +114,7 @@ header{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	color: #fff;
+	color: #4E5C6B;
 	padding: 35px 100px 0;
 }
 
@@ -180,7 +180,7 @@ header nav li:last-child{
 	position: relative;
 	justify-content: center;
 	min-height: 100vh;
-	color: #fff;
+	color: #4E5C6B;
 	text-align: center;
 }
 
@@ -203,7 +203,7 @@ header nav li:last-child{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #FFF;
+	background-color: #4E5C6B;
 	opacity: 0.50;
 } */
 
@@ -212,10 +212,11 @@ header nav li:last-child{
 	margin-bottom: 15px;
 	font-weight: 600;
 	line-height: 1;
+	color: #222;
 }
 
 .hero h1 span {
-	color: #333;
+	color: #4E5C6B;
 	font-size: 90px;
 }
 
@@ -261,7 +262,7 @@ header nav li:last-child{
 ---------------------*/
 
 .оur-work{
-	background-color: #fff;
+	background-color: #222;
 }
 
 .our-work .grid li{
@@ -355,7 +356,7 @@ header nav li:last-child{
 --------------------*/
 
 .reviews{
-	background-color: #fff;
+	background-color: #222;
 }
 
 .reviews .quote{
@@ -448,7 +449,7 @@ footer{
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
-	color: #fff;
+	color: #222;
 	background-color: #414a4f;
 	padding: 60px 0;
 }
@@ -479,7 +480,7 @@ footer p{
 }
 
 footer p a{
-	color: #fff;
+	color: #222;
 }
 
 @media (max-width: 700px){
