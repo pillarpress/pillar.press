@@ -202,9 +202,10 @@ header nav li:last-child{
 } */
 
 .hero h1{
-	font: bold 70px 'Vollkorn', sans-serif;
+	font: bold 140px 'Vollkorn', sans-serif;
 	margin-bottom: 15px;
 	font-weight: 600;
+	line-height: 1;
 }
 
 .hero h1 span {
@@ -213,7 +214,7 @@ header nav li:last-child{
 }
 
 .hero h3{
-	font: normal 28px 'Vollkorn', sans-serif;
+	font: normal 28px 'Open Sans', sans-serif;
 	margin-bottom: 40px;
 	font-weight: 300;
 }
