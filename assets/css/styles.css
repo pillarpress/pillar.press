@@ -127,12 +127,13 @@ header h2{
 
 header h2 a,
 header h2 a:visited {
+	color: #333;
 	font-weight: 900;
 	opacity: 1.0;
 }
 
 header h2 a:hover {
-	opacity: 0.9;
+	color: #222;
 }
 
 header nav{
