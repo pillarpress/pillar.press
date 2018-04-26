@@ -192,7 +192,7 @@ header nav li:last-child{
 	height: 100%;
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: #414a4f;
+	background-color: #f9f9f9;
 	background-position: center center;
 	z-index: -1;
 }
